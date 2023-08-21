@@ -1,1 +1,1 @@
-# principle-of-compilation-csc-553
+# Principle of Compilation | CSC 553

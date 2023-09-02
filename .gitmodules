@@ -1,0 +1,3 @@
+[submodule "assignments/assignment-0"]
+	path = assignments/assignment-0
+	url = git@github.com:aloretocornidez/553-assignment-0.git
